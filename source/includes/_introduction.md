@@ -2,7 +2,7 @@
 
 Welcome to the No Name Brand Platform API! You can use our API to access No Name Brand Platform API endpoints, for transactional banking.
 
-**THIS DOCUMENT IS SUBJECT TO CHANGE**
+**PLEASE NOTE THAT THIS DOCUMENT IS SUBJECT TO CHANGE**
 
 You can view code examples in the dark area to the right.
 
